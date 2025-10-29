@@ -6,6 +6,7 @@
 * This can cause **incompatibilities** when newer versions of libraries are installed.
 
 ## How to use
+- use WSL if on windows
 
 1. Navigate to the directory where you want to use the toolbox:
 

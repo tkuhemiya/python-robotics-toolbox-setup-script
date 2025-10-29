@@ -10,11 +10,12 @@ else
     return 1
 fi
 
+
 python3.11 -m venv ./pyenv;
 source ./pyenv/bin/activate;
 
 pip install numpy==1.26.4
-pip install --force-reinstall matplotlib==3.7.1
+pip install matplotlib==3.7.1
 pip install roboticstoolbox-python
 pip install --force-reinstall matplotlib==3.7.1
 pip install machinevision-toolbox-python
